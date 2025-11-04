@@ -1590,6 +1590,22 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114036295079588584, guid: 5d075d3ed32dfe1498e31454964d07e8, type: 3}
+      propertyPath: jumpSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 114036295079588584, guid: 5d075d3ed32dfe1498e31454964d07e8, type: 3}
+      propertyPath: jumpDuration
+      value: 0.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 114036295079588584, guid: 5d075d3ed32dfe1498e31454964d07e8, type: 3}
+      propertyPath: movementSpeed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 114036295079588584, guid: 5d075d3ed32dfe1498e31454964d07e8, type: 3}
+      propertyPath: airControlRate
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
